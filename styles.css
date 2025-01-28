@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+:root {
+  --bgColor: #faf3f0;
+}
+body {
+  background-color: var(--bgColor);
+  font-family: "Poppins", sans-serif;
+}
